@@ -1,4 +1,4 @@
-module Example
+module ServiceIO
 export hello, domath
 
 """
