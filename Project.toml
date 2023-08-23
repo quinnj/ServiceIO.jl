@@ -2,6 +2,9 @@ name = "ServiceIO"
 uuid = "e1f370db-a3fa-2e71-a42e-bf226ff22e38"
 version = "1.0.0"
 
+[deps]
+AWSCRT_jll = "01db5350-6ea1-5d9a-9a47-8a31a394cb9c"
+
 [compat]
 julia = "1.6"
 
